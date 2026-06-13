@@ -16,6 +16,7 @@
 | Mouse | Look around |
 | F | Toggle flashlight |
 | Click | Start game |
+| Esc | Halt game |
 
 ## How to run
 
