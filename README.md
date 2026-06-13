@@ -38,4 +38,4 @@ npx vite
 
 - [Three.js](https://threejs.org/) — 3D rendering
 - [Vite](https://vitejs.dev/) — development server
-- JavaScript (ES Modules)
+- JavaScript
