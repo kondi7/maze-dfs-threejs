@@ -15,7 +15,7 @@
 | W / A / S / D | Move |
 | Mouse | Look around |
 | F | Toggle flashlight |
-| Click | Lock mouse / start game |
+| Click | Start game |
 
 ## How to run
 
