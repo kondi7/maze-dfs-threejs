@@ -8,6 +8,10 @@
 - Toggleable flashlight
 - Dynamic lighting and shadows
 
+## Requirements
+
+- [Node.js](https://nodejs.org/) (v18 or higher)
+
 ## Controls
 
 | Key | Action |
@@ -23,7 +27,7 @@
 1. Install dependencies:
 
 ```
-npm install vite
+npm install
 ```
 
 2. Start the development server:
