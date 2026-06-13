@@ -38,4 +38,5 @@ npx vite
 
 - [Three.js](https://threejs.org/) — 3D rendering
 - [Vite](https://vitejs.dev/) — development server
+- HTML / CSS — game UI (start screen, blocker overlay)
 - JavaScript
